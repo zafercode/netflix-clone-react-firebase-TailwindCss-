@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> 4c509ac (first commit)
 
 # testing
 /coverage
